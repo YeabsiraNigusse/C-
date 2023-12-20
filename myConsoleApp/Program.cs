@@ -9,7 +9,20 @@ namespace myConsoleApp
             Console.WriteLine("Hello World!");
         }
     }
+
+    class Customer
+    {
+        private string name = 'Yeab'
+       private int age = 21
+
+       public string name { get; set    }
+
+    }
+
+
 }
+
+
 /*
 
 to create a dotnet project follow the folloowing steps
