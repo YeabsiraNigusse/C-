@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\console\\C#.csproj": {}
+    "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\myConsoleApp\\myConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\console\\C#.csproj": {
+    "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\myConsoleApp\\myConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\console\\C#.csproj",
-        "projectName": "C#",
-        "projectPath": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\console\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\myConsoleApp\\myConsoleApp.csproj",
+        "projectName": "myConsoleApp",
+        "projectPath": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\myConsoleApp\\myConsoleApp.csproj",
         "packagesPath": "C:\\Users\\nigus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\console\\obj\\",
+        "outputPath": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\myConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nigus\\AppData\\Roaming\\NuGet\\NuGet.Config"
