@@ -1,0 +1,16 @@
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\bin\Debug\net5.0\yeab.exe
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\bin\Debug\net5.0\yeab.deps.json
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\bin\Debug\net5.0\yeab.runtimeconfig.json
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\bin\Debug\net5.0\yeab.runtimeconfig.dev.json
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\bin\Debug\net5.0\yeab.dll
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\bin\Debug\net5.0\ref\yeab.dll
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\bin\Debug\net5.0\yeab.pdb
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\yeab.csproj.AssemblyReference.cache
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\yeab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\yeab.AssemblyInfoInputs.cache
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\yeab.AssemblyInfo.cs
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\yeab.csproj.CoreCompileInputs.cache
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\yeab.dll
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\ref\yeab.dll
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\yeab.pdb
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\yeab\obj\Debug\net5.0\yeab.genruntimeconfig.cache

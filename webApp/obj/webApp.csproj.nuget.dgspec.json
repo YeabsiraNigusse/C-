@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\webApp\\webApp.csproj": {}
+    "C:\\Users\\nigus\\OneDrive\\Desktop\\Lecture Resources\\Fourth Year\\Elective\\C-\\webApp\\webApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\webApp\\webApp.csproj": {
+    "C:\\Users\\nigus\\OneDrive\\Desktop\\Lecture Resources\\Fourth Year\\Elective\\C-\\webApp\\webApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\webApp\\webApp.csproj",
+        "projectUniqueName": "C:\\Users\\nigus\\OneDrive\\Desktop\\Lecture Resources\\Fourth Year\\Elective\\C-\\webApp\\webApp.csproj",
         "projectName": "webApp",
-        "projectPath": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\webApp\\webApp.csproj",
+        "projectPath": "C:\\Users\\nigus\\OneDrive\\Desktop\\Lecture Resources\\Fourth Year\\Elective\\C-\\webApp\\webApp.csproj",
         "packagesPath": "C:\\Users\\nigus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nigus\\OneDrive\\Desktop\\C-\\webApp\\obj\\",
+        "outputPath": "C:\\Users\\nigus\\OneDrive\\Desktop\\Lecture Resources\\Fourth Year\\Elective\\C-\\webApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nigus\\AppData\\Roaming\\NuGet\\NuGet.Config"
