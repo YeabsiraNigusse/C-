@@ -4,27 +4,19 @@ namespace yeab
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Enter your Number");
-            string input = Console.ReadLine();
+        // static void Main(string[] args)
+        // {
+        //    Console.WriteLine("Enter you Number");
+        //    string number = Console.ReadLine();
+        //    int num =  Convert.ToInt32(number);
 
-            // Parse the input string to an integer
-            if (int.TryParse(input, out int number))
-            {
-                if (number % 2 == 0)
-                {
-                    Console.WriteLine(number + " is Even");
-                }
-                else
-                {
-                    Console.WriteLine(number + " is odd");
-                }
-            }
-            else
-            {
-                Console.WriteLine("Invalid input. Please enter a valid number.");
-            }
-        }
+        //    if ((num % 2) == 0)
+        //    {
+        //     Console.WriteLine(num + " is Even");
+        //    }else
+        //    {
+        //     Console.WriteLine(num + " is odd");
+        //    }
+        // }
     }
 }
