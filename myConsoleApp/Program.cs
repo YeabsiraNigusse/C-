@@ -10,14 +10,14 @@ namespace myConsoleApp
         }
     }
 
-    class Customer
-    {
-        private string name = 'Yeab'
-       private int age = 21
+    // class Customer
+    // {
+    //     private string name = 'Yeab'
+    //    private int age = 21
 
-       public string name { get; set    }
+    //    public string name { get; set    }
 
-    }
+    // }
 
 
 }

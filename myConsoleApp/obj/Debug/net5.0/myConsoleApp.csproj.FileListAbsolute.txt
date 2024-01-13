@@ -14,3 +14,19 @@ C:\Users\nigus\OneDrive\Desktop\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.dl
 C:\Users\nigus\OneDrive\Desktop\C-\myConsoleApp\obj\Debug\net5.0\ref\myConsoleApp.dll
 C:\Users\nigus\OneDrive\Desktop\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.pdb
 C:\Users\nigus\OneDrive\Desktop\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.genruntimeconfig.cache
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.AssemblyInfo.cs
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.dll
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\ref\myConsoleApp.dll
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.pdb
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\bin\Debug\net5.0\myConsoleApp.exe
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\bin\Debug\net5.0\myConsoleApp.deps.json
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\bin\Debug\net5.0\myConsoleApp.runtimeconfig.json
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\bin\Debug\net5.0\myConsoleApp.runtimeconfig.dev.json
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\bin\Debug\net5.0\myConsoleApp.dll
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\bin\Debug\net5.0\ref\myConsoleApp.dll
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\bin\Debug\net5.0\myConsoleApp.pdb
+C:\Users\nigus\OneDrive\Desktop\Lecture Resources\Fourth Year\Elective\C-\myConsoleApp\obj\Debug\net5.0\myConsoleApp.genruntimeconfig.cache
